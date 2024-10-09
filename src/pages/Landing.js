@@ -9,7 +9,7 @@ export default function Landing() {
             {/* Sidebar */}
             <Sidebarhandle/>
 
-            {/* Main Content */}
+            {/* Main Content D */}
             <div className="w-full 2xl:w-4/5 2xl:ms-0 ms-[5%] bg-[#EFEFEF] min-h-screen">
                 <div className='p-5 px-8'>
                     <Toppic/>
