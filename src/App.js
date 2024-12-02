@@ -17,8 +17,7 @@ function App() {
     </Router>
     // <Router>
     //   <Routes>
-    //     <Route path="/" element={<Landing />} />
-    //     <Route path="/scrapy" element={<Scrapy />} />
+
     // 
     //   
     //   </Routes>
