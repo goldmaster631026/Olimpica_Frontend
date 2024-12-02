@@ -19,7 +19,7 @@ function App() {
     //   <Routes>
     //     <Route path="/" element={<Landing />} />
     //     <Route path="/scrapy" element={<Scrapy />} />
-    //     <Route path="/analysis" element={<Analysis />} />
+    // 
     //   
     //   </Routes>
     // </Router>
