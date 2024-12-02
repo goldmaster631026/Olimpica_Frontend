@@ -15,13 +15,7 @@ function App() {
         <Route path="/compare" element={<Compare />} />
       </Routes>
     </Router>
-    // <Router>
-    //   <Routes>
 
-    // 
-    //   
-    //   </Routes>
-    // </Router>
   );
 }
 
